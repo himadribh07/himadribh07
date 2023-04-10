@@ -14,7 +14,7 @@
 <p>
 <a align= "center" href="https://github.com/slowcheetah07">
 <img alt= "stats card" height="200px" width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=slowcheetah07&theme=radical">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt= "stats card" height="200px" width="360px" src="https://github-readme-stats.vercel.app/api?username=slowcheetah07&count_private=true&theme=radical&show_icons=true" />
 </p>
 
