@@ -12,7 +12,7 @@
 </a>
 <br>
 <br>
-<p>
+<!-- <p>
   Languages and Tools: 
 <br>
   <br>
@@ -23,7 +23,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 </p>
-<br>
+<br> -->
 <p>
 <a align= "center" href="https://github.com/slowcheetah07">
 <img alt= "stats card" height="200px" width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=slowcheetah07&theme=radical">
