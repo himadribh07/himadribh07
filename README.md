@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Himadri👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himadrigit&label=Views&color=red&style=metal" alt="slowcheetah07" /> </p>
 
-<!--
-**slowcheetah07/slowcheetah07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://linkedin.com/in/himadribhattacharya3/">
+  <img align="left" alt="Himadri's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/slowcheetah07">
+  <img align="left" alt="Himadri's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/slowcheetah07_">
+  <img align="left" alt="Himadri's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+- 🔭 I’m currently working on **Various Projects** in **C and Python**
+- 🌱 I’m currently learning about **Embedded Systems and VLSI**
+- 👯 I’m looking to collaborate in projects involving **C , Python and Embedded Systems**
+- 💬 I would like to discuss about **Data Structures**
+- 📫 How to reach me:  [Linkedin](https://linkedin.com/in/himadribhattacharya3/) 
+- 😄 Pronouns: He/His
+
