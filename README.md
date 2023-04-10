@@ -22,8 +22,6 @@
 
 - 🔭 I’m currently working on **Full stack** in **Java and Python**
 - 🌱 I’m currently learning about **Full stack development**
-- 👯 I’m looking to collaborate in projects involving **Java , Python and Embedded Systems**
-- 💬 I would like to discuss about **Data Structures**
 - 📫 How to reach me:  [Linkedin](https://linkedin.com/in/himadribhattacharya3/) 
 - 😄 Pronouns: He/His
 
