@@ -1,6 +1,6 @@
 ### Hi there, I'm Himadri👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himadrigit&label=Views&color=d4af37&style=metal" alt="slowcheetah07" /> </p>
-
+<!-- <h3 align="center">Connect with me:</h3> -->
 <a href="https://linkedin.com/in/himadribhattacharya3/">
   <img align="left" alt="Himadri's Linkdein" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />
 </a>
@@ -13,15 +13,12 @@
 <br>
 <p>
 <a align= "center" href="https://github.com/slowcheetah07">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=slowcheetah07&theme=radical">
-<img align="right" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=slowcheetah07&count_private=true&theme=radical&show_icons=true" />
+<img alt= "stats card" height="200px" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=slowcheetah07&theme=radical">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=slowcheetah07&count_private=true&theme=radical&show_icons=true" />
 </p>
 
 <br/>
-<br/>
 
-- 🔭 I’m currently working on **Full stack** in **Java and Python**
-- 🌱 I’m currently learning about **Full stack development**
 - 📫 How to reach me:  [Linkedin](https://linkedin.com/in/himadribhattacharya3/) 
-- 😄 Pronouns: He/His
 
