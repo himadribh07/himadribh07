@@ -14,7 +14,7 @@
 <p>
 <a align= "center" href="https://github.com/divyanshugit">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=slowcheetah07&theme=radical">
-<img align="right" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=slowcheetah&count_private=true&theme=radical&show_icons=true" />
+<img align="right" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=slowcheetah07&count_private=true&theme=radical&show_icons=true" />
 </p>
 
 <br/>
