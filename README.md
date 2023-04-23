@@ -1,5 +1,5 @@
 ### Hi there, I'm Himadri👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himadrigit&label=Views&color=d4af37&style=metal" alt="slowcheetah07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himadrigit&label=Views&color=d4af37&style=metal" alt="himadribh07" /> </p>
 <!-- <h3 align="center">Connect with me:</h3> -->
 <a href="https://linkedin.com/in/himadribhattacharya3/">
   <img align="left" alt="Himadri's Linkdein" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />
