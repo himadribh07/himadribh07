@@ -25,10 +25,10 @@
 </p>
 <br> -->
 <p>
-<a align= "center" href="https://github.com/himadribh07">
-<img alt= "stats card" height="200px" width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=himadribh07&theme=buefy">
- &nbsp;&nbsp;&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himadribh07&show_icons=true&locale=en&layout=compact" alt="himadribh07" />
+
+<img alt= "stats card"  align="center" height="200px" width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=himadribh07&theme=buefy">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himadribh07&show_icons=true&locale=en&layout=compact" alt="himadribh07" />
 
 <!-- <img alt= "stats card" height="200px" width="360px" src="https://github-readme-stats.vercel.app/api?username=himadribh07&count_private=true&theme=radical&show_icons=true" /> -->
 </p>
