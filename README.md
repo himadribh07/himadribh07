@@ -32,11 +32,14 @@
 <br>
   <p>
     
-[![himadribh07's GitHub | Stats](https://stats.quine.sh/himadribh07/github?theme=dark)](https://quine.sh)
+![Himadri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himadribh07&show_icons=true&theme=radical)
+
     
 
     
-[![himadribh07's GitHub | Languages Over Time](https://stats.quine.sh/himadribh07/languages-over-time?theme=dark)](https://quine.sh)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himadribh07&layout=compact&theme=radical)
+
+
     
   <br>
  
