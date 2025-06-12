@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 - 🛠️ Tech Enthusiast | Learner | Team Player
 
 ---
-
+<!--
 ### 🔗 Connect with Me
 
 <a href="https://linkedin.com/in/himadribhattacharya3/" target="_blank">
@@ -34,7 +34,7 @@ Welcome to my GitHub profile!
 
 <br/><br/>
 
----
+-->
 
 ### 🛠️ Languages & Tools
 
@@ -49,11 +49,13 @@ Welcome to my GitHub profile!
 
 ### 📊 GitHub Stats
 
-![Himadri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himadribh07&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himadribh07&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himadribh07&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himadribh07&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himadribh07&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himadribh07&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
 
 ---
 
