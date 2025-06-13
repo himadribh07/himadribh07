@@ -43,7 +43,7 @@ Welcome to my GitHub profile!
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"/></code>
+
 
 ---
 
