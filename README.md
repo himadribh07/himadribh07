@@ -40,10 +40,13 @@ Welcome to my GitHub profile!
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"/></code>
-
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" alt="NumPy"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure"/></code>
 
 ---
 
