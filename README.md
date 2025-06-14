@@ -1,4 +1,5 @@
-### Hi there, I'm Himadri 👋  
+### Hi there, I'm Himadri <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30">
+
 Welcome to my GitHub profile!
 
 <p align="left">
