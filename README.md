@@ -22,7 +22,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,sql" />
 </p>
 
 ### Frontend
